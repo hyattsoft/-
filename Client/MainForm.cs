@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Client
 {
-    public partial class DataSetForm : Form
+    public partial class MainForm : Form
     {
-        public DataSetForm()
+        public MainForm()
         {
             InitializeComponent();
         }
